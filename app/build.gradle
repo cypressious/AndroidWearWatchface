@@ -6,7 +6,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "com.jeremysteckling.androidwearexamplewatch_test"
+        applicationId "com.cypressworks.androidwearexamplewatch_test"
         minSdkVersion 20
         targetSdkVersion 20
         versionCode 1
